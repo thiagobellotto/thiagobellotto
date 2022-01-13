@@ -11,21 +11,12 @@ I like to develop solutions for various problems, such as RPAs, visualizations, 
   <img align="center" alt="Thiago-gcloud" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" style="max-width:100%;">
   <img align="center" alt="Thiago-jupyter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" style="max-width:100%;">
   <img align="center" alt="Thiago-fluter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" style="max-width:100%;">
-  <img align="center" alt="Thiago-github" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" style="max-width:100%;">
   <img align="center" alt="Thiago-raspberry" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" style="max-width:100%;">
 </div>
 
-<!-- Actual text -->
-
 <h2 dir="auto"></h2>
-
+<!-- Actual text -->
 You can find me on [![LinkedIn][1.1]][1].
-
 <!-- Icons -->
-
-[1.1]: https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg
-
-<!-- Links to your social media accounts -->
-
+[1.1]: <img align="center" alt="Thiago-raspberry" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;"> 
 [1]: https://www.linkedin.com/in/thiago-bellotto/
-
