@@ -1,5 +1,12 @@
 # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+My name is Thiago, I'm a data scientist!
+
+I like to develop solutions for various problems, such as RPAs, visualizations, data engineering, machine learning and others stuffs. 
+
+<img src="https://mpng.subpng.com/20180811/pul/kisspng-python-general-purpose-programming-language-comput-python-programming-language-symphony-solution-5b6ee0c863a5a1.6306397415339931604082.jpg" width="30px">
+
+
 <!--
 **thiagobellotto/thiagobellotto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
