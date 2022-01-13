@@ -15,8 +15,4 @@ I like to develop solutions for various problems, such as RPAs, visualizations, 
 </div>
 
 <h2 dir="auto"></h2>
-<!-- Actual text -->
-You can find me on [1.1]][1].
-<!-- Icons -->
-[1.1]: <img align="center" alt="Thiago-raspberry" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;"> 
-[1]: https://www.linkedin.com/in/thiago-bellotto/
+<p dir="auto">You can find me on <a href="https://www.linkedin.com/in/thiago-bellotto/" rel="nofollow"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" title="LinkedIn" style="max-width: 100%;"></a></p>
