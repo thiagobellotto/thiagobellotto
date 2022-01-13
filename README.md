@@ -5,7 +5,7 @@ My name is Thiago, I'm a data scientist!
 I like to develop solutions for various problems, such as RPAs, visualizations, data engineering, machine learning and others stuffs. 
 
 
-<img align="center" src="https://www.python.org/static/community_logos/python-logo-generic.svg" style="max-width: 100%;">
+<img align="center" src="https://www.python.org/static/community_logos/python-logo-generic.svg" style="max-width: 50%;">
 
 <!--
 **thiagobellotto/thiagobellotto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
