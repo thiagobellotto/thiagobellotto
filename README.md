@@ -3,12 +3,16 @@
 My name is Thiago, I'm a data scientist!
 
 I like to develop solutions for various problems, such as RPAs, visualizations, data engineering, machine learning and others stuffs. 
-
-<div dir="auto"><br>
-  <img align="center" alt="Thiago-python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="max-width: 100%;">
-  <img align="center" alt="Thiago-docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" style="max-width: 100%;">
-  <img align="center" alt="Thiago-gcloud" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" style="max-width:   100%;">
-  <img align="center" alt="Thiago-jupyter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" style="max-width:    100%;">
+<h2 dir="auto"></h2>
+<div dir="icons"><br>
+  <img align="center" alt="Thiago-python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="max-width:100%;">
+  <img align="center" alt="Thiago-docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" style="max-width:100%;">
+  <img align="center" alt="Thiago-docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" style="max-width:100%;">
+  <img align="center" alt="Thiago-gcloud" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" style="max-width:100%;">
+  <img align="center" alt="Thiago-jupyter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" style="max-width:100%;">
+  <img align="center" alt="Thiago-fluter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" style="max-width:100%;">
+  <img align="center" alt="Thiago-github" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" style="max-width:100%;">
+  <img align="center" alt="Thiago-raspberry" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" style="max-width:100%;">
 </div>
 
 <!-- Actual text -->
