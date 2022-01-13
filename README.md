@@ -5,7 +5,7 @@ My name is Thiago, I'm a data scientist!
 I like to develop solutions for various problems, such as RPAs, visualizations, data engineering, machine learning and others stuffs. 
 
 
-<img align="center" src="https://www.python.org/static/community_logos/python-logo-generic.svg" style="max-width: 10%;">
+<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
 
 <!-- Actual text -->
 
@@ -19,4 +19,3 @@ You can find me on [![LinkedIn][1.1]][1].
 
 [1]: https://www.linkedin.com/in/thiago-bellotto/
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
