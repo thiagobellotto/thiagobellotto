@@ -2,7 +2,10 @@
 
 My name is Thiago, I'm a data scientist!
 
-I like to develop solutions for various problems, such as RPAs, visualizations, data engineering, machine learning and others stuffs. 
+I like to develop solutions for various problems, such as RPAs, visualizations, data engineering, machine learning and others stuffs.
+
+<p dir="auto">I have developped a website for QR Code generation with Streamlit, as a side project: <a href="https://qrcode-generator-k5fvjsjxja-rj.a.run.app/" rel="nofollow"><img align="center" alt="Thiago-QRCODE" height="25" width="25" src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="Streamlit" style="max-width: 100%;"></a></p>
+
 <h2 dir="auto"></h2>
 <div dir="icons"><br>
   <img align="center" alt="Thiago-python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="max-width:100%;">
