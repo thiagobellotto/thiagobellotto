@@ -14,4 +14,4 @@ I like to develop solutions for various problems, such as RPAs, visualizations, 
   <img align="center" alt="Thiago-raspberry" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" style="max-width:100%;">
 </div>
 <h2 dir="auto"></h2>
-<p dir="auto">You can find me on <a href="https://www.linkedin.com/in/thiago-bellotto/" rel="nofollow"><img align="center" alt="Thiago-fluter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" style="max-width: 100%;"></a></p>
+<p dir="auto">You can find me on <a href="https://www.linkedin.com/in/thiago-bellotto/" rel="nofollow"><img align="center" alt="Thiago-fluter" height="25" width="30" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" style="max-width: 100%;"></a></p>
