@@ -2,9 +2,7 @@
 
 My name is Thiago, I'm a data scientist!
 
-I like to develop solutions for various problems, such as RPAs, visualizations, data engineering, machine learning and others stuffs.
-
-<p dir="auto">I have developped a website for QR Code generation with Streamlit, as a side project: <a href="https://qrcode-generator-k5fvjsjxja-rj.a.run.app/" rel="nofollow"><img align="center" alt="Thiago-QRCODE" height="25" width="25" src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="Streamlit" style="max-width: 100%;"></a></p>
+<p dir="auto">I like to develop solutions for various problems, such as RPAs, visualizations, data engineering, machine learning and others stuffs. I have developped a website for QR Code generation with Streamlit, as a side project: <a href="https://qrcode-generator-k5fvjsjxja-rj.a.run.app/" rel="nofollow"><img align="center" alt="Thiago-QRCODE" height="10" width="15" src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="Streamlit" style="max-width: 100%;"></a></p>
 
 <h2 dir="auto"></h2>
 <div dir="icons"><br>
@@ -17,4 +15,4 @@ I like to develop solutions for various problems, such as RPAs, visualizations, 
   <img align="center" alt="Thiago-raspberry" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" style="max-width:100%;">
 </div>
 <h2 dir="auto"></h2>
-<p dir="auto">You can find me on <a href="https://www.linkedin.com/in/thiago-bellotto/" rel="nofollow"><img align="center" alt="Thiago-fluter" height="25" width="30" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" style="max-width: 100%;"></a></p>
+<p dir="auto">You can find me on <a href="https://www.linkedin.com/in/thiago-bellotto/" rel="nofollow"><img align="center" alt="Thiago-fluter" height="20" width="25" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" style="max-width: 100%;"></a></p>
