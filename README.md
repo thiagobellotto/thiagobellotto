@@ -1,8 +1,8 @@
 # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30" width="30">
 
-My name is Thiago, I'm a data scientist!
+My name is Thiago, I'm a data engineer!
 
-<p dir="auto">I like to develop solutions for various problems, such as RPAs, visualizations, data engineering, machine learning and other stuffs. I have developped a website for QR Code generation with Streamlit, as a side project: <a href="https://share.streamlit.io/thiagobellotto/qrcode_generator/main/streamlit_qrcode.py" rel="nofollow"><img align="center" alt="Thiago-QRCODE" height="20" width="25" src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="Streamlit" style="max-width: 100%;"></a>.</p>
+I like to develop solutions for various problems, such as RPAs, visualizations, data engineering, machine learning and other stuffs. 
 
 I have posts on Medium, about Machine Learning and Data Engineer: <a href="https://thiago-bellotto.medium.com/" rel="nofollow"><img align="center" alt="Thiago-MEDIUM" height="30" width="130" src="https://miro.medium.com/max/8976/1*Ra88BZ-CSTovFS2ZSURBgg.png" alt="Medium" style="max-width: 100%;"></a>
 
@@ -11,10 +11,11 @@ I have posts on Medium, about Machine Learning and Data Engineer: <a href="https
 <h2 dir="auto"></h2>
 <div dir="icons"><br>
   <img align="center" alt="Thiago-python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="max-width:100%;">
-  <img align="center" alt="Thiago-docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" style="max-width:100%;">
+  <img align="center" alt="Thiago-postgres" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" style="max-width:100%;">
   <img align="center" alt="Thiago-docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" style="max-width:100%;">
   <img align="center" alt="Thiago-gcloud" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" style="max-width:100%;">
-  <img align="center" alt="Thiago-jupyter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" style="max-width:100%;">
+ <img align="center" alt="Thiago-snowflake" height="30" width="30" src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" style="max-width:100%;">
+ <img align="center" alt="Thiago-jupyter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" style="max-width:100%;">
   <img align="center" alt="Thiago-fluter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" style="max-width:100%;">
   <img align="center" alt="Thiago-raspberry" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" style="max-width:100%;">
 </div>
