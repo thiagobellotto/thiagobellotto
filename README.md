@@ -21,4 +21,4 @@ I have posts on Medium, about Machine Learning and data engineering: <a href="ht
 </div>
 <h2 dir="auto"></h2>
 
-![Snake animation](https://github.com/thiagobellotto/thiagobellotto/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/thiagobellotto/thiagobellotto/blob/output/github-contribution-grid-snake.svg) -->
